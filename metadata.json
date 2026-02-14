@@ -1,0 +1,7 @@
+{
+  "name": "Car Wash Al-Mutlaa",
+  "description": "A comprehensive car wash service application for customers and drivers in Al-Mutlaa, Kuwait, featuring real-time tracking, service selection, and order management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
